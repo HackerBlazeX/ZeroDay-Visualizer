@@ -98,17 +98,16 @@ pip install -r requirements.txt
 
 # 4. Run the app
 streamlit run zeroday_visualizer.py
-
 ## 📸 Screenshots
 
-### 🏠 Dashboard Home UI  
-![ZeroDay Visualizer Screenshot 1](ZeroDay-Visualizer.jpg)
+### 🏠 Dashboard Home UI
+![ZeroDay Visualizer Screenshot 1](assets/ZeroDay-Visualizer.jpg)
 
-### 🛡️ CVE Analysis Page  
-![ZeroDay Visualizer Screenshot 2](ZeroDay-Visualizer.jpg)
+### 🛡️ CVE Analysis Page
+![ZeroDay Visualizer Screenshot 2](assets/ZeroDay-Visualizer2.jpg)
 
-### 🕸 Attack Flow Visualization  
-![ZeroDay Visualizer Screenshot 3](ZeroDay-Visualizer.jpg)
+### 🕸 Attack Flow Visualization
+![ZeroDay Visualizer Screenshot 3](assets/ZeroDay-Visualizer3.jpg)
 
-### 🧾 Export to PDF + Analytics View  
-![ZeroDay Visualizer Screenshot 4](ZeroDay-Visualizer.jpg)
+### 🧾 Export to PDF + Analytics View
+![ZeroDay Visualizer Screenshot 4](assets/ZeroDay-Visualizer4.jpg)
